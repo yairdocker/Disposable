@@ -1,0 +1,1 @@
+Synthetic P0 gateway fixture.
