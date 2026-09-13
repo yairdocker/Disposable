@@ -1,1 +1,1 @@
-user bypass control
+gateway destination control
